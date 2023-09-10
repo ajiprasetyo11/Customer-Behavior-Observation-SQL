@@ -1,4 +1,8 @@
 /* QUESTION 2 */
+-- Create a query to get average order value and total number of unique users, grouped by month.
+--- Time Frame: Jan 2019 until September 2023
+
+
 SELECT
   EXTRACT(YEAR FROM created_at) AS year,
   EXTRACT(MONTH FROM created_at) AS month,
