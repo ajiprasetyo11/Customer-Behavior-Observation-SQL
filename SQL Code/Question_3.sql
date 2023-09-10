@@ -1,4 +1,8 @@
 /* QUESTION 3 */
+-- Find the first and last name of users from the youngest and oldest age of each gender.
+--- Time Frame: Jan 2019 until September 2023
+
+
 WITH
 female_youngest_oldest AS
 (
