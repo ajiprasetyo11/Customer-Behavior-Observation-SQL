@@ -1,4 +1,7 @@
 /* QUESTION 1 */
+-- Create a query to get the total users who completed the order and total orders per month
+--- Time Frame: Jan 2019 until September 2023
+
 SELECT
   EXTRACT(YEAR FROM created_at) AS year,
   EXTRACT(MONTH FROM created_at) AS month,
