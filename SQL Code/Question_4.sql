@@ -1,5 +1,5 @@
 /* QUESTION 4 */
--- Get the top 5 most profitable product and it's profit detail breakdown by month.
+-- Get the top 5 most profitable product and its profit detail breakdown by month.
 
 
 WITH product_rank_permonth AS
