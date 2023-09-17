@@ -1,6 +1,6 @@
 /* QUESTION 5 */
--- Create a query to get month to date of total revenue in each product categoris of past 3 monts
--- (current date 14 September 2023), breakdown by date.
+-- Create a query to get month to date of total revenue in each product categories of past 3 months (current date 14 September 2023),
+-- breakdown by date.
 
 
 WITH revenue_per_category AS
