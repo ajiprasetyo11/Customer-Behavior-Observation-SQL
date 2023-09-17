@@ -1,6 +1,6 @@
 /* QUESTION 6 */
--- Find monthly growth of TPO (# of completed orders), and TPV (# of revenue) in percentage breakdown by product categories, ordered by tim desc.
---- Time Frime: January 2019 until September 2023
+-- Find monthly growth of TPO (# of completed orders), and TPV (# of revenue) in percentage breakdown by product categories, ordered by time descendingly.
+--- Time Frame: January 2019 until September 2023
 
 
 WITH revenue_per_category AS
