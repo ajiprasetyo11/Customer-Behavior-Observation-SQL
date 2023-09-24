@@ -1,4 +1,4 @@
-# Customer Behavior Analysis
+# Customer Behavior Analysis using Google Bigquery
 Understanding customer behavior will help me make predictions about what will happen next and adjust strategies - from products to sales and marketing - to reflect my customers' behavior patterns better. When I provide a customer experience that meets customer needs, I'll be more likely to drive sales.
 ## Table of Contents
 * Overview Dataset
