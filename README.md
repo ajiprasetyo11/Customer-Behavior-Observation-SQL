@@ -24,3 +24,25 @@ The dataset contains information about customers, products, orders, logistics, w
 <p align="center">
   <img width="738" src="https://github.com/user-attachments/assets/fd19a1b3-3d0e-4027-b9b8-3044e46ca0f1">
 </p>
+
+2. Average Order Value (AOV) for Each Month.
+
+Here is the average order value for each month from 2019 to 2023:
+
+| Year | Month | AOV |
+| :-----------------: | :-----------------: | :-------------------: | 
+|2019| 1  | 62.99 |
+|2019| 2  | 106.61 |
+|2019| 3  | 82.64 |
+|2019| 4  | 77.76 |
+|...| ...  | ... |
+
+Here is the number of unique users who placed orders each month from 2019 to 2023:
+
+| Year | Month | AOV |
+| :-----------------: | :-----------------: | :-------------------: | 
+|2019| 1  | 1 |
+|2019| 2  | 8 |
+|2019| 3  | 17 |
+|2019| 4  | 14 |
+|...| ... | ... |
