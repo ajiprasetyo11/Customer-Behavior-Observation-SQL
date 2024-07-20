@@ -36,6 +36,8 @@ Here is the average order value for each month from 2019 to 2023:
 |2019| 3  | 82.64 |
 |2019| 4  | 77.76 |
 |...| ...  | ... |
+|2023| 8  | 88.56 |
+|2023| 9  | 86.77 |
 
 Here is the number of unique users who placed orders each month from 2019 to 2023:
 
@@ -46,3 +48,5 @@ Here is the number of unique users who placed orders each month from 2019 to 202
 |2019| 3  | 17 |
 |2019| 4  | 14 |
 |...| ... | ... |
+|2023| 8  | 906 |
+|2023| 9  | 390 |
